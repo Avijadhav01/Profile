@@ -1,54 +1,72 @@
 <h1 align="center">Hi 👋, I'm Avinash Jadhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijadhav01&label=Profile%20views&color=0e75b6&style=flat" alt="avijadhav01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Avijadhav01" alt="avijadhav01" /></a> </p>
-
-- 🌱 I’m currently Working On Projects
-
-- 💬 Ask me about **react and java-script**
-
-- 📫 How to reach me **avipatil9699403305@gmail.com**
+<h3 align="center">A MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=avijadhav01&label=Profile%20views&color=0e75b6&style=flat" alt="avijadhav01" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=avijadhav01&theme=onedark" />
+  </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijadhav01&show_icons=true&locale=en&layout=compact" alt="avijadhav01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijadhav01&show_icons=true&locale=en" alt="avijadhav01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01&" alt="avijadhav01" /></p>
-
-
-
-## 📞 Let's Connect!
-
-You can reach me through the following platforms:
-
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com)
-- **GitHub**: [Avijadhav01](https://github.com)
-- **Email**: [avipatil9699403305@gmail.com](mailto:myemail@example.com)
 
 ---
 
-## 🚀 Fun Facts
-
-- I love learning new programming languages and frameworks to stay up-to-date with the latest trends in web development.
-- When I’m not coding, I enjoy gaming, and contributing to open-source projects!
+### 👨‍💻 About Me
+- 🌱 Currently working on **MERN Stack Projects**
+- 💻 Skilled in **MongoDB, Express.js, React, Node.js**
+- 🔗 Building **REST APIs** and **Full-Stack Applications**
+- 💬 Ask me about **React, JavaScript, Node.js**
+- 📫 Reach me at **avipatil9699403305@gmail.com**
 
 ---
 
-![Footer Image](https://via.placeholder.com/1200x200/0D47A1/FFFFFF?text=Happy+Coding!)
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🛒 **E-Commerce Web App** – MERN, JWT Auth, Admin Panel
+- 🧑‍🎓 **Student Attendance System** – MERN Stack
+- 📝 **Blog Application** – React, Node, MongoDB
+- 🔐 **Authentication System** – JWT, bcrypt
+
+*(Pin these projects on GitHub)*
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijadhav01&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avijadhav01&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01" />
+</p>
+
+---
+
+## 📞 Connect With Me
+- **LinkedIn**: https://www.linkedin.com/in/your-linkedin-id
+- **GitHub**: https://github.com/avijadhav01
+- **Email**: avipatil9699403305@gmail.com
+
+---
+
+⭐ *Always learning. Always building.* 🚀
